@@ -52,7 +52,7 @@ https://www.nationsreportcard.gov/ndecore/xplore/nde
 2) U.S. Department of Education Budget History, 2000-2024
 https://www.ed.gov/about/ed-overview/annual-performance-reports/budget/us-department-of-education-budget-history
 
-3) Kids Count Data Center, Per-Pupil Educational Expenditures in the United States, 2000-2020 
+4) Kids Count Data Center, Per-Pupil Educational Expenditures in the United States, 2000-2020 
 https://datacenter.aecf.org/
 
 ## Conclusion
