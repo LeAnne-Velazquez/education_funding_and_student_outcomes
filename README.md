@@ -4,7 +4,7 @@
 
 
 ## Table of Contents
-* [Tableau Dashboard](#Tableau-dashboard)
+* [Presentation](#presentation)
 * [Motivation](#motivation)
 * [Questions](#questions)
 * [Normalizing the Data](#normalizing-the-data)
