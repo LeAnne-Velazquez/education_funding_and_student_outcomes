@@ -18,7 +18,7 @@ Link: https://www.canva.com/design/DAGwzaPNkm0/vZZU7axKwrYnan7-O9D3Xw/view?utm_c
 
 ## Motivation:
 Education funding is one of the largest investments a state or district makes. It shapes the workforce and holds long-term economic implications, yet the relationship between financial decisions and student outcomes remains complex.  Without a clear understanding of how dollars translate into learning gains, policymakers and educators risk making decisions that do not maximize student success. 
-By analyzing trends in funding alongside student performance outcomes, we can unveil patterns that will enable decision-makers to prioritize strategies that directly support student learning and long-term success, moving us closer to equitable and high-quality education for all students.
+By analyzing trends in funding alongside student performance outcomes, we can unveil patterns that will enable decision-makers to prioritize strategies that directly support student learning and long-term success, expanding access to high-quality education for all students.
 
 
 ## Questions:
