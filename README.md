@@ -1,4 +1,4 @@
-# Spending vs Scores
+# Spending vs Scores: A Data-Driven Look at Education Spending and Student Achievement
 
 
 
