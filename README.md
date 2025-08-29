@@ -14,7 +14,7 @@
 * [Conclusion](#conclusion)
 
 ## Presentation
-Link: [Spending vs Scores Presentation](https://www.canva.com/design/DAGwzaPNkm0/vZZU7axKwrYnan7-O9D3Xw/view?utm_content=DAGwzaPNkm0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6bd4bf5f77)
+Link: [Spending vs Scores Presentation](#https://www.canva.com/design/DAGwzaPNkm0/vZZU7axKwrYnan7-O9D3Xw/view?utm_content=DAGwzaPNkm0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6bd4bf5f77)
 
 ## Motivation:
 Education funding is one of the largest investments a state or district makes. It shapes the workforce and holds long-term economic implications, yet the relationship between financial decisions and student outcomes remains complex.  Without a clear understanding of how dollars translate into learning gains, policymakers and educators risk making decisions that do not maximize student success. 
